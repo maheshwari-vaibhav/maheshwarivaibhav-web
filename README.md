@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 <!--
 **maheshwarivaibhav-web/maheshwarivaibhav-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
