@@ -1,8 +1,8 @@
 ### Hi there 👋
-[![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=maheshwarivaibhav-web&show_icons=true&theme=radical)](https://github.com/maheshwarivaibhav-web)
-[![Vaibhav's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=maheshwarivaibhav-web&layout=compact&theme=radical)](https://github.com/maheshwarivaibhav-web)
+[![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=maheshwari-vaibhav&show_icons=true&theme=radical)](https://github.com/maheshwari-vaibhav)
+[![Vaibhav's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=maheshwari-vaibhav&layout=compact&theme=radical)](https://github.com/maheshwari-vaibhav)
 <!--
-**maheshwarivaibhav-web/maheshwarivaibhav-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**maheshwari-vaibhav/maheshwarivaibhav-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
